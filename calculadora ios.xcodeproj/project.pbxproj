@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		69E2D6102B56FB4000150FA5 /* calculadoraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D60F2B56FB4000150FA5 /* calculadoraApp.swift */; };
-		69E2D6122B56FB4000150FA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D6112B56FB4000150FA5 /* ContentView.swift */; };
 		69E2D6142B56FB4200150FA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69E2D6132B56FB4200150FA5 /* Assets.xcassets */; };
 		69E2D6172B56FB4200150FA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69E2D6162B56FB4200150FA5 /* Preview Assets.xcassets */; };
 		69E2D6212B56FB4200150FA5 /* calculadoraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D6202B56FB4200150FA5 /* calculadoraTests.swift */; };
 		69E2D62B2B56FB4200150FA5 /* calculadoraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D62A2B56FB4200150FA5 /* calculadoraUITests.swift */; };
 		69E2D62D2B56FB4200150FA5 /* calculadoraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D62C2B56FB4200150FA5 /* calculadoraUITestsLaunchTests.swift */; };
+		69E2D63B2B5734FB00150FA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69E2D6112B56FB4000150FA5 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 69E2D6072B56FB4000150FA5 /* Build configuration list for PBXProject "calculadora" */;
+			buildConfigurationList = 69E2D6072B56FB4000150FA5 /* Build configuration list for PBXProject "calculadora ios" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69E2D6122B56FB4000150FA5 /* ContentView.swift in Sources */,
+				69E2D63B2B5734FB00150FA5 /* ContentView.swift in Sources */,
 				69E2D6102B56FB4000150FA5 /* calculadoraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -545,7 +545,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		69E2D6072B56FB4000150FA5 /* Build configuration list for PBXProject "calculadora" */ = {
+		69E2D6072B56FB4000150FA5 /* Build configuration list for PBXProject "calculadora ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				69E2D62E2B56FB4200150FA5 /* Debug */,
